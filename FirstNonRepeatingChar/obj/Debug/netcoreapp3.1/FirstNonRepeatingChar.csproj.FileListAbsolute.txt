@@ -1,0 +1,13 @@
+C:\Users\zach\source\repos\FirstNonRepeatingChar\FirstNonRepeatingChar\bin\Debug\netcoreapp3.1\FirstNonRepeatingChar.exe
+C:\Users\zach\source\repos\FirstNonRepeatingChar\FirstNonRepeatingChar\bin\Debug\netcoreapp3.1\FirstNonRepeatingChar.deps.json
+C:\Users\zach\source\repos\FirstNonRepeatingChar\FirstNonRepeatingChar\bin\Debug\netcoreapp3.1\FirstNonRepeatingChar.runtimeconfig.json
+C:\Users\zach\source\repos\FirstNonRepeatingChar\FirstNonRepeatingChar\bin\Debug\netcoreapp3.1\FirstNonRepeatingChar.runtimeconfig.dev.json
+C:\Users\zach\source\repos\FirstNonRepeatingChar\FirstNonRepeatingChar\bin\Debug\netcoreapp3.1\FirstNonRepeatingChar.dll
+C:\Users\zach\source\repos\FirstNonRepeatingChar\FirstNonRepeatingChar\bin\Debug\netcoreapp3.1\FirstNonRepeatingChar.pdb
+C:\Users\zach\source\repos\FirstNonRepeatingChar\FirstNonRepeatingChar\obj\Debug\netcoreapp3.1\FirstNonRepeatingChar.csprojAssemblyReference.cache
+C:\Users\zach\source\repos\FirstNonRepeatingChar\FirstNonRepeatingChar\obj\Debug\netcoreapp3.1\FirstNonRepeatingChar.AssemblyInfoInputs.cache
+C:\Users\zach\source\repos\FirstNonRepeatingChar\FirstNonRepeatingChar\obj\Debug\netcoreapp3.1\FirstNonRepeatingChar.AssemblyInfo.cs
+C:\Users\zach\source\repos\FirstNonRepeatingChar\FirstNonRepeatingChar\obj\Debug\netcoreapp3.1\FirstNonRepeatingChar.csproj.CoreCompileInputs.cache
+C:\Users\zach\source\repos\FirstNonRepeatingChar\FirstNonRepeatingChar\obj\Debug\netcoreapp3.1\FirstNonRepeatingChar.dll
+C:\Users\zach\source\repos\FirstNonRepeatingChar\FirstNonRepeatingChar\obj\Debug\netcoreapp3.1\FirstNonRepeatingChar.pdb
+C:\Users\zach\source\repos\FirstNonRepeatingChar\FirstNonRepeatingChar\obj\Debug\netcoreapp3.1\FirstNonRepeatingChar.genruntimeconfig.cache
